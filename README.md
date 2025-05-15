@@ -4,7 +4,8 @@ Bem-vindo ao PythonDoZero, meu repositório de estudos onde registro cada passo 
 
 Este projeto é muito mais do que simples anotações: é a prova viva da minha dedicação, disciplina e sede por conhecimento. Aqui, você vai encontrar códigos comentados, exemplos práticos e aprendizados progressivos, organizados de forma clara e acessível — ideal tanto para quem está começando quanto para quem quer revisar conceitos com simplicidade e objetividade.
 
-💡 Sobre este repositório
+# 💡 Sobre este repositório 
+
 📘 Estudo do zero ao avançado em Python
 
 🔍 Conceitos explicados com analogias simples e didáticas
@@ -15,5 +16,20 @@ Este projeto é muito mais do que simples anotações: é a prova viva da minha 
 
 🛠️ Projetos pequenos e exercícios para reforço prático
 
-🎯 Objetivo: 
+# 🎯 Objetivo
+
 Aprender Python com profundidade e clareza, compartilhando cada avanço como forma de consolidar o conhecimento e contribuir com outros iniciantes. Este repositório é minha base de estudos, mas também um cartão de visitas técnico, onde demonstro como aprendo, como penso e como evoluo.
+
+# 👨‍💻 Por que isso importa?
+
+Recrutador(a), se você está buscando alguém que:
+
+Aprende rápido e por conta própria
+
+Documenta bem o que estuda
+
+Tem disciplina, consistência e paixão por tecnologia
+
+Está em constante evolução
+
+...então este repositório fala mais alto que qualquer diploma.
